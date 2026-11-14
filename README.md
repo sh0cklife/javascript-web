@@ -8,3 +8,4 @@ JavaScript basics and front-end work, combined from my earlier practice reposito
 | `JavaScriptBasicsTwo` | Second part of JS basics |
 | `JavaScriptFundamentals` | JavaScript fundamentals |
 | `Front-End-Technologies-Basics` | Front-End Technologies Basics, May 2024 |
+| `BroCode-JavaScript` | Lessons from the Bro Code JavaScript tutorials on YouTube (basics and DOM), November 2026 |
